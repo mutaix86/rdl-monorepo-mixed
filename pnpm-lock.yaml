@@ -1,0 +1,15 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .: {}
+
+  packages/web:
+    dependencies:
+      react:
+        specifier: ^18.0.0
+        version: 18.2.0
