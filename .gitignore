@@ -1,0 +1,4 @@
+# Added by Autar: duplicate lockfiles removed
+package-lock.json
+packages/api/poetry.lock
+packages/web/yarn.lock
